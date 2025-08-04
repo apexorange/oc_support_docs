@@ -5,7 +5,7 @@ import callout from './schemas/callout'
 
 export default defineConfig({
   name: 'default',
-  title: 'Framer Support Docs',
+  title: 'OC Support Docs',
   projectId: 'pnh8ldvf',
   dataset: 'production',
   schema: {
