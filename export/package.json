@@ -1,8 +1,9 @@
 {
+  "scripts": {
+    "dev": "sanity dev",
+    "start": "sanity dev"
+  },
   "dependencies": {
-    "@portabletext/to-html": "^2.0.14",
-    "@sanity/client": "^7.8.2",
-    "dotenv": "^17.2.1",
-    "json2csv": "^6.0.0-alpha.2"
+    "sanity": "^3.37.0"
   }
 }
