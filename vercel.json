@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/studio",
+      "destination": "/dist/index.html"
+    },
+    {
+      "source": "/studio/(.*)",
+      "destination": "/dist/$1"
+    }
+  ]
+}
