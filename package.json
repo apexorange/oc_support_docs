@@ -1,0 +1,12 @@
+{
+  "name": "framer-support-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "sanity dev",
+    "start": "sanity dev"
+  },
+  "dependencies": {
+    "sanity": "^3.37.0"
+  }
+}
