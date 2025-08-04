@@ -1,1 +1,4 @@
-.DS_Store
+# Ignore secrets and local outputs
+export/.env
+export/posts.csv
+node_modules/
