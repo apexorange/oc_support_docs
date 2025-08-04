@@ -6,7 +6,7 @@ import callout from './schemas/callout'
 export default defineConfig({
   name: 'default',
   title: 'Framer Support Docs',
-  projectId: 'your_project_id',
+  projectId: 'pnh8ldvf',
   dataset: 'production',
   schema: {
     types: [post, callout],
