@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "sanity dev",
-    "start": "sanity dev"
+    "build": "sanity build",
+    "start": "sanity start"
   },
   "dependencies": {
     "sanity": "^3.37.0",
