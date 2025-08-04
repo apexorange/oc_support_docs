@@ -2,3 +2,4 @@
 export/.env
 export/posts.csv
 node_modules/
+.DS_Store
